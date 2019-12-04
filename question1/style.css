@@ -1,0 +1,51 @@
+header{
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 0px 0px 0px 114px;
+    background-color: teal;
+}
+li{
+    padding: 40px 45px 5px 87px;
+}
+#special{
+    margin: auto ;
+}
+#bigimage{
+    text-align: center;
+    margin: auto;
+}
+#imagetext{
+    display: flex;
+    margin: auto;
+    margin: auto 0px 0px 184px;
+
+}
+p{
+    overflow:scroll;
+    font-family: fantasy;
+    width: 510px;
+
+}
+footer{
+    background-color: teal;
+    text-align: center;
+    font-family: fantasy;
+    padding: 30px
+}
+input{
+    width: 986px;
+
+}
+button{
+    margin-left: 147px;
+
+}
+a{
+    text-decoration: none;
+    color : white
+}
+body{
+    font-family: fantasy;
+}
